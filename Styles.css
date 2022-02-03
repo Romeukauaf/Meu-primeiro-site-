@@ -1,0 +1,196 @@
+h1{
+    color:black
+}
+h2{
+color: black;
+margin-top:30px;
+}
+
+.caixa-superior{
+background-image:url("./fotinho.png");
+
+height: 90vh;
+position: relative;
+}
+ 
+*{
+padding: 0%;
+
+widows: 80px;
+
+width: 80;
+
+font-family: 'Montserrat Subrayada', sans-serif;
+
+margin:0;
+}
+
+.cabecalho{
+    padding-top: 38px;
+     padding-left: 35px;
+    text-decoration: none;
+}   
+
+
+#cabecalho {
+    font-size: 24px;
+    color: #F8F8FF	;
+    display: inline-flex;
+    margin-left: 20px;
+    cursor: pointer;
+    ;
+}
+h1{
+    font-size: 58px;
+    color:white
+    position: relative;
+    top: 130px;
+    margin-left: 65px;
+}
+
+ 
+.caixatop{
+margin-top: 48px;
+margin-left: 50px;
+height: 823px
+ 
+}
+ 
+ form{
+
+background-color: #F8F8FF;
+border-radius: 10px;
+float: right;
+padding: 20px;
+margin-right: 30px;
+height: 328px
+position relative;
+bottom:50px
+}
+
+
+ input{
+     display: block;
+     background-color: #F9F9F9; 
+    border: 50px;
+    border-radius: 5px;
+    width: 70px
+    heigth: 352px;
+    margin bottom:100px
+     padding:10px :left:10px
+}
+
+ textarea{
+     display: block;
+    margin-bottom:30px;
+    width:250px;
+    border-radius: 5px;
+    height:100px;
+    padding-left: 15px;    
+}
+
+    .tituloformulario{
+    font-size: 24px;
+    color: black;
+    margin :0px
+    
+}
+label{
+
+font-size: 20px;
+color: black;
+}
+button{
+    width: 250px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #40BB15;
+    color: #F8F8FF;
+    
+}
+.caixa-central{
+text-align: center;
+display: flex;
+justify-content: space-between;
+margin-bottom: 50px;
+margin-top: 100px;
+}
+
+.caixa-inferior2{
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+    position: 
+}
+#titul-meio{
+font-size:50px; ;
+text-align: center;
+color: black;
+text-align: center;
+padding: 10px;
+margin-top: 40px;
+margin-bottom: 40px;
+
+}
+.card{
+    width: 400px;
+    border-radius: 10px;
+    background-color: #F8F8FF;
+    border:1px solid #F9F9F9
+    
+}
+ 
+.titulo-card{
+    background-color: green;
+    color: #F8F8FF;
+    text-align: center;
+    padding: 20px
+    
+
+}
+
+
+ul{
+padding: 20px;
+}
+ li{
+margin-bottom: 5px;
+
+margin-left: 10px;
+ }
+
+ .em-baixo{
+    background: rgba(124, 103, 247, 0.938);
+    color: #FFFFFF;
+    font-size: 20px;
+     text-align: center;
+    padding-top: 50px;
+    }
+.em-baixo1{
+    font-size: 38px;
+    color: #FFFFFF;
+    text-align: center;
+    padding:30px 50px 50px 50px
+}
+
+
+
+/*
+
+width => LARGURA
+
+heigth=>ALTURA
+ 
+Background-image => troca de imagem
+
+px=>pixel
+
+vh=>wiew heigth / altura da tela divido por 100
+
+vw=>view width / a largura da tela divida por 100
+
+cm=>centimetro
+
+*/
